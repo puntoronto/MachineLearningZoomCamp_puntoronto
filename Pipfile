@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 requests = "*"
+flask = "*"
+gunicorn = "*"
+waitress = "*"
 
 [dev-packages]
 ipykernel = "*"
